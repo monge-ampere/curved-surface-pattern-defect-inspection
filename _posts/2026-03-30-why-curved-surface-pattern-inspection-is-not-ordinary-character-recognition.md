@@ -2,7 +2,6 @@
 layout: post
 title: "第二篇：曲面 Pattern 缺陷检测的本质：结构化归一化与缺陷测量"
 date: 2026-03-30 08:00:00 +0800
-categories: curved-surface-pattern-inspection
 ---
 
 # The Nature of Curved-Surface Pattern Inspection: Structural Normalization and Defect Measurement
