@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "第九篇：曲面 Pattern 检测系统为什么不能写死——插件机制如何接住二维码、条码、Logo 与 AI 模块"
-date: 2026-04-02 00:00:00 +0800
+date: 2026-04-03 10:00:00 +0800
 ---
 
 # Why the Curved-Surface Pattern Inspection System Should Not Be Hard-Wired: A Plugin Mechanism for QR Codes, Barcodes, Logos, and AI Modules
