@@ -2,7 +2,7 @@
 
 A technical series on curved-surface pattern defect inspection, written from the perspective of geometric structure, defect measurement, and deployable industrial system design.
 
-**Website:** https://monge-ampere.github.io/curved-surface-pattern-inspection/
+**Website:** https://monge-ampere.github.io/curved-surface-pattern-defect-inspection/
 
 ## About
 
