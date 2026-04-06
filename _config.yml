@@ -1,5 +1,12 @@
 title: "工业级系统十讲"
 description: "一个关于曲面 Pattern 缺陷检测的系列：从问题本体、模板组织、配准与测量，到配置路由、多线程、插件机制与工程落地。"
+
 theme: minima
 lang: zh-CN
-timezone: Asia/Qingdao
+timezone: Asia/Shanghai
+
+url: "https://monge-ampere.github.io"
+baseurl: "/curved-surface-pattern-defect-inspection"
+
+plugins:
+  - jekyll-sitemap
